@@ -59,11 +59,15 @@ technical depth, plainly explained
 ## 🧰 Tools I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,python,git,vscode&perline=8" alt="PHP, MySQL, JavaScript, HTML, CSS, Python, Git, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,python,java,spring,maven,postman,git,vscode&perline=8" alt="PHP, MySQL, JavaScript, HTML, CSS, Python, Java, Spring Boot, Maven, Postman, Git, and VS Code" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BACKEND-PHP-12343B?style=flat-square" />
+  <img src="https://img.shields.io/badge/BACKEND-JAVA-0B7285?style=flat-square" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-SPRING%20BOOT-2A9D8F?style=flat-square" />
+  <img src="https://img.shields.io/badge/BUILD-MAVEN-F08C46?style=flat-square" />
+  <img src="https://img.shields.io/badge/API-POSTMAN-12343B?style=flat-square" />
   <img src="https://img.shields.io/badge/DATABASE-MYSQL-0B7285?style=flat-square" />
   <img src="https://img.shields.io/badge/FRONTEND-JAVASCRIPT-F08C46?style=flat-square" />
   <img src="https://img.shields.io/badge/FOUNDATIONS-HTML%20%2F%20CSS-2A9D8F?style=flat-square" />
