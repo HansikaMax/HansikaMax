@@ -50,10 +50,6 @@ COMMUNICATION
 technical depth, plainly explained
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HansikaMax&show_icons=true&hide_border=true&bg_color=F8F4EC&title_color=12343B&icon_color=F08C46&text_color=36565D&include_all_commits=true&count_private=true" width="100%" />
-</p>
-
 </td>
 </tr>
 </table>
@@ -105,12 +101,7 @@ An enrolment system designed with a clean 3-tier architecture. I led the archite
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansikaMax&layout=compact&hide_border=true&bg_color=F8F4EC&title_color=12343B&text_color=36565D&langs_count=8" width="47%" />
   <img src="https://streak-stats.demolab.com?user=HansikaMax&hide_border=true&background=F8F4EC&ring=F08C46&fire=F08C46&currStreakLabel=0B7285&sideLabels=12343B&currStreakNum=12343B&sideNums=12343B&dates=36565D" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HansikaMax&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="88%" />
 </p>
 
 <br />
